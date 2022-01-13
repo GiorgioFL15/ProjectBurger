@@ -1,0 +1,81 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 34542345434,
+        "tipo": " Italiano Branco "
+      },
+      {
+        "id": 54343214565,
+        "tipo": " 3 Queijos "
+      },
+      {
+        "id": 34897687689,
+        "tipo": " Parmesão e Orégano "
+      },
+      {
+        "id": 5987678901,
+        "tipo": " Integral "
+      }
+    ],
+    "carnes": [
+      {
+        "id": 6789054321,
+        "tipo": " Maminha "
+      },
+      {
+        "id": 8907654387,
+        "tipo": " Alcatra "
+      },
+      {
+        "id": 2345123476,
+        "tipo": " Picanha "
+      },
+      {
+        "id": 9807654765,
+        "tipo": " hambúrguer vegetariano "
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 8765432190,
+        "tipo": " Bacon "
+      },
+      {
+        "id": 5647890321,
+        "tipo": " Cheddar "
+      },
+      {
+        "id": 4563736546,
+        "tipo": " Salame "
+      },
+      {
+        "id": 98765479903,
+        "tipo": " Tomate "
+      },
+      {
+        "id": 87656789765,
+        "tipo": " Cebola roxa "
+      },
+      {
+        "id": 9876546789,
+        "tipo": " Pepino "
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 34567897654,
+      "tipo": " Solicitado "
+    },
+    {
+      "id": 2354678543,
+      "tipo": " Em produção "
+    },
+    {
+      "id": 1243524563,
+      "tipo": " Finalizado "
+    }
+  ],
+  "burgers": []
+}
